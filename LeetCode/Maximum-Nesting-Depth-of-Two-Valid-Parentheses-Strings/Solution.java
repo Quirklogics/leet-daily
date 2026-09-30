@@ -2,9 +2,11 @@
 2    public int[] maxDepthAfterSplit(String seq) {
 3        int[] ans = new int[seq.length()];
 4        int depth = 0;
-5        for(int i = 0; i < seq.length(); i++){
-6            ans[i] = (seq.charAt(i) == '(') ? ++depth % 2 : depth-- % 2;
-7        }
-8        return ans;
-9    }
-10}
+5        int i = 0;
+6        for(char ch : seq.toCharArray()){
+7            ans[i] = (ch == '(') ? ++depth % 2 : depth-- % 2;
+8            i++;
+9        }
+10        return ans;
+11    }
+12}
