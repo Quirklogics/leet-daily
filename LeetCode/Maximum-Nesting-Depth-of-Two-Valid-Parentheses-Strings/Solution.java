@@ -5,8 +5,7 @@
 5        int i = 0;
 6        for(char ch : seq.toCharArray()){
 7            ans[i] = (ch == '(') ? ++depth % 2 : depth-- % 2;
-8            i++;
-9        }
-10        return ans;
-11    }
-12}
+8            i++;}
+9        return ans;
+10    }
+11}
