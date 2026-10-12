@@ -1,26 +1,31 @@
-1class Solution {
-2    public int maxSum(List<Integer> nums, int k) {
-3        int limt = 1_000_000_007;
-4        int bit = 30;
-5        int[] freq = new int[bit];
-6        for(int n : nums){
-7            for(int i = 0; i < bit; i++){
-8                if((n & (1 << i)) != 0){
-9                    freq[i]++;
-10                }
-11            }
-12        }
-13        long ans = 0;
-14        while(k-- > 0){
-15            long temp = 0;
-16          for(int i = 0; i < bit; i++){
-17            if(freq[i] > 0){
-18                freq[i]--;
-19                temp |= (1L << i);
-20            }
-21          }
-22          ans = (ans+temp*temp)%limt;
-23        }
-24        return (int)ans;
-25    }
-26}
+1import java.util.List;
+2
+3class Solution {
+4    private static final int MOD = 1_000_000_007;
+5
+6    public int maxSum(List<Integer> nums, int k) {
+7        int[] bitCount = new int[31];
+8
+9        for (int x : nums) {
+10            for (int b = 0; b < 31; b++) {
+11                if (((x >> b) & 1) == 1) {
+12                    bitCount[b]++;
+13                }
+14            }
+15        }
+16
+17        long ans = 0;
+18
+19        for (int i = 0; i < k; i++) {
+20            long val = 0;
+21            for (int b = 0; b < 31; b++) {
+22                if (bitCount[b] > i) {
+23                    val |= (1L << b);
+24                }
+25            }
+26            ans = (ans + val * val) % MOD;
+27        }
+28
+29        return (int) ans;
+30    }
+31}
