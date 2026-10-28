@@ -1,28 +1,21 @@
 class Solution {
-    int[] arr;
     int[] init;
     Random r = new Random();
     public Solution(int[] nums) {
-        arr = nums;
-        init = nums.clone(); 
+        init = nums.clone();
     }
     
     public int[] reset() {
-        arr = init;
-        init = init.clone();
-        return arr;
+        return init.clone();
     }
     
     public int[] shuffle() {
-        List<Integer> temp = new ArrayList<>();
-        for(int n : arr){
-          temp.add(n); 
-        }
-
-        for(int i = 0; i < arr.length; i++){
-            int ranIdx = r.nextInt(temp.size());
-            arr[i] = temp.get(ranIdx);
-            temp.remove(ranIdx);
+        int[] arr = init.clone();
+        for(int i = arr.length - 1; i > 0; i--){
+            int ran = r.nextInt(i + 1);
+            int temp = arr[i];
+            arr[i] = arr[ran];
+            arr[ran] = temp;
         }
         return arr;
     }
