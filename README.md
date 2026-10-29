@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Quirklogics/leet-daily/tree/main/0136-single-number/) | Easy |
 | [0384-shuffle-an-array](https://github.com/Quirklogics/leet-daily/tree/master/0384-shuffle-an-array) |
+| [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Quirklogics/leet-daily/tree/master/0384-shuffle-an-array) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
