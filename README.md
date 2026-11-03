@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/Quirklogics/leet-daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -28,6 +29,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Quirklogics/leet-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Quirklogics/leet-daily/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
