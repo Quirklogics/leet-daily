@@ -58,6 +58,7 @@
 | [0085-maximal-rectangle](https://github.com/Quirklogics/leet-daily/tree/main/0085-maximal-rectangle/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Quirklogics/leet-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Quirklogics/leet-daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0394-decode-string](https://github.com/Quirklogics/leet-daily/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Quirklogics/leet-daily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -78,4 +79,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Quirklogics/leet-daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Quirklogics/leet-daily/tree/main/0394-decode-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Quirklogics/leet-daily/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
