@@ -15,6 +15,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -39,6 +40,7 @@
 | [0085-maximal-rectangle](https://github.com/Quirklogics/leet-daily/tree/main/0085-maximal-rectangle/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 | Problem Name | Difficulty |
