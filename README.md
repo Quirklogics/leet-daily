@@ -34,6 +34,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Quirklogics/leet-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Quirklogics/leet-daily/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 <!---LeetCode Topics End-->
