@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
