@@ -23,12 +23,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Quirklogics/leet-daily/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Quirklogics/leet-daily/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Quirklogics/leet-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Quirklogics/leet-daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Quirklogics/leet-daily/tree/main/0231-power-of-two/) | Easy |
 | [0384-shuffle-an-array](https://github.com/Quirklogics/leet-daily/tree/master/0384-shuffle-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Quirklogics/leet-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -96,6 +98,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Quirklogics/leet-daily/tree/main/0231-power-of-two/) | Easy |
 | [0394-decode-string](https://github.com/Quirklogics/leet-daily/tree/main/0394-decode-string/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
