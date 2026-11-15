@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -35,6 +36,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Quirklogics/leet-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Quirklogics/leet-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2235-add-two-integers](https://github.com/Quirklogics/leet-daily/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -43,6 +45,7 @@
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/Quirklogics/leet-daily/tree/main/0085-maximal-rectangle/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -120,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
