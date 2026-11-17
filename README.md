@@ -11,6 +11,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Quirklogics/leet-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Quirklogics/leet-daily/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Quirklogics/leet-daily/tree/main/0622-design-circular-queue/) | Medium |
 | [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Quirklogics/leet-daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0384-shuffle-an-array](https://github.com/Quirklogics/leet-daily/tree/master/0384-shuffle-an-array) |
+| [0622-design-circular-queue](https://github.com/Quirklogics/leet-daily/tree/main/0622-design-circular-queue/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Quirklogics/leet-daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/Quirklogics/leet-daily/tree/main/0622-design-circular-queue/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Quirklogics/leet-daily/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/Quirklogics/leet-daily/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
