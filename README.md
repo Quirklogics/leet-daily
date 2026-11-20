@@ -17,6 +17,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Quirklogics/leet-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Quirklogics/leet-daily/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -48,6 +49,7 @@
 | [0085-maximal-rectangle](https://github.com/Quirklogics/leet-daily/tree/main/0085-maximal-rectangle/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Quirklogics/leet-daily/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -90,6 +92,7 @@
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Quirklogics/leet-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Quirklogics/leet-daily/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
