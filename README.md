@@ -17,6 +17,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Quirklogics/leet-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Quirklogics/leet-daily/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Quirklogics/leet-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
+| [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Quirklogics/leet-daily/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -142,8 +144,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Quirklogics/leet-daily/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/Quirklogics/leet-daily/tree/main/0622-design-circular-queue/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
