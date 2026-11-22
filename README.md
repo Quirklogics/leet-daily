@@ -108,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Quirklogics/leet-daily/tree/main/0394-decode-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Quirklogics/leet-daily/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Quirklogics/leet-daily/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Quirklogics/leet-daily/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Recursion
