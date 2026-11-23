@@ -15,6 +15,7 @@
 | [0739-daily-temperatures](https://github.com/Quirklogics/leet-daily/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Quirklogics/leet-daily/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Quirklogics/leet-daily/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Quirklogics/leet-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
@@ -40,6 +41,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Quirklogics/leet-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Quirklogics/leet-daily/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Quirklogics/leet-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2235-add-two-integers](https://github.com/Quirklogics/leet-daily/tree/master/2235-add-two-integers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -67,6 +69,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Quirklogics/leet-daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0384-shuffle-an-array](https://github.com/Quirklogics/leet-daily/tree/master/0384-shuffle-an-array) |
 | [0622-design-circular-queue](https://github.com/Quirklogics/leet-daily/tree/main/0622-design-circular-queue/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -154,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
