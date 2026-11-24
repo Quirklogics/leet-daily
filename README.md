@@ -21,6 +21,7 @@
 | [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Quirklogics/leet-daily/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -44,6 +45,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2235-add-two-integers](https://github.com/Quirklogics/leet-daily/tree/master/2235-add-two-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Dynamic Programming
@@ -162,4 +164,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
