@@ -26,6 +26,7 @@
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Quirklogics/leet-daily/tree/master/0496-next-greater-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,4 +178,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
