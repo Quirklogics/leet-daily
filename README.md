@@ -46,6 +46,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Quirklogics/leet-daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Quirklogics/leet-daily/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2235-add-two-integers](https://github.com/Quirklogics/leet-daily/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/Quirklogics/leet-daily/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Quirklogics/leet-daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
@@ -154,6 +155,7 @@
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Quirklogics/leet-daily/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2974-minimum-number-game](https://github.com/Quirklogics/leet-daily/tree/main/2974-minimum-number-game/) | Easy |
+| [3360-stone-removal-game](https://github.com/Quirklogics/leet-daily/tree/main/3360-stone-removal-game/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
