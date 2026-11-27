@@ -27,6 +27,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Quirklogics/leet-daily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/Quirklogics/leet-daily/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Quirklogics/leet-daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/Quirklogics/leet-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Quirklogics/leet-daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Quirklogics/leet-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Quirklogics/leet-daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@
 | ------- | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Quirklogics/leet-daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Quirklogics/leet-daily/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Quirklogics/leet-daily/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
